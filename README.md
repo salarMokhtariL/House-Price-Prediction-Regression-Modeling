@@ -1,4 +1,5 @@
 # Mpowering House Price Prediction through Effective Data Preprocessing and Linear Regression Modeling
+> By Salar Mokhtri Laleh
 ![Pink and Peach Technology LinkedIn Banner](https://user-images.githubusercontent.com/75142232/236396273-70fd2ad2-b871-4b68-b17d-35c63d9a440a.png)
 
 This project aims to predict the sale prices of houses based on various features such as the size of the house, the number of rooms, the location, and so on. The approach used is linear regression, which is a commonly used method for predicting continuous values.

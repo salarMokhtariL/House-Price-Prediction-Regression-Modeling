@@ -21,13 +21,13 @@ Before training the linear regression model, we need to preprocess the data. Thi
  ## Linear Regression
  Linear regression is a method for modeling the relationship between a dependent variable (y) and one or more independent variables (x). The goal is to find the line of best fit that minimizes the sum of the squared errors between the predicted values and the actual values. The equation for a simple linear regression model is:
  
- y = mx + b
+ $y = mx + b$
 
 where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
 
 For multiple linear regression, the equation becomes:
 
-y = b0 + b1x1 + b2x2 + ... + bnxn
+$y = b_0 + b_1x_1 + b_2x_2 + ... + b_nx_n$
 
 where y is the dependent variable, x1, x2, ..., xn are the independent variables, b0 is the y-intercept, and b1, b2, ..., bn are the coefficients for each independent variable.
 

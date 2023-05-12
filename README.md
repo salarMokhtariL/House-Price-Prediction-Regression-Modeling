@@ -35,7 +35,7 @@ where y is the dependent variable, x1, x2, ..., xn are the independent variables
 In this project, we used linear regression to predict house prices based on various features. We first preprocessed the data by removing outliers, handling missing values, encoding categorical variables, and aligning columns. We then trained the linear regression model and evaluated its performance on a validation set. Finally, we used the model to make predictions on a test set and saved the results to a CSV file. The accuracy of the model can be further improved by tuning hyperparameters and using more advanced techniques such as regularization.
 
 
-License
+# License
 This project is licensed under the [Salar Mokhtari Laleh Open-Source License](https://github.com/salarMokhtariL/Salar-Mokhtari-Laleh-License). See the LICENSE file for details
 
 

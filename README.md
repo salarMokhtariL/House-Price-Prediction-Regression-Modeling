@@ -29,7 +29,7 @@ For multiple linear regression, the equation becomes:
 
 $y = b_0 + b_1x_1 + b_2x_2 + ... + b_nx_n$
 
-where y is the dependent variable, x1, x2, ..., xn are the independent variables, b0 is the y-intercept, and b1, b2, ..., bn are the coefficients for each independent variable.
+where $y$ is the dependent variable $x_1$, $x_2$, ..., $x_n$ are the independent variables, $b_0$ is the y-intercept, and $b_1$, $b_2$, ..., $b_n$ are the coefficients for each independent variable.
 
 # Conclusion
 In this project, we used linear regression to predict house prices based on various features. We first preprocessed the data by removing outliers, handling missing values, encoding categorical variables, and aligning columns. We then trained the linear regression model and evaluated its performance on a validation set. Finally, we used the model to make predictions on a test set and saved the results to a CSV file. The accuracy of the model can be further improved by tuning hyperparameters and using more advanced techniques such as regularization.

@@ -1,5 +1,5 @@
 # House Price Prediction through Effective Data Preprocessing and Linear Regression Modeling
-> By Salar Mokhtri Laleh
+> By $Salar$ $Mokhtri$ $Laleh$
 
 
 ![Pink and Peach Technology LinkedIn Banner (1)](https://github.com/salarMokhtariL/House-Price-Prediction-Regression-Modeling/assets/75142232/179767ec-0a44-4fc9-b683-b2883fd8cb04)

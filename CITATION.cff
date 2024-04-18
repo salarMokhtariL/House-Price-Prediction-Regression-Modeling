@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Mokhtari Laleh"
+    given-names: "Salar"
+    orcid: "https://orcid.org/0009-0008-7469-2392"
+title: "House-Price-Prediction-Regression-Modeling"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-04-18
+url: "https://github.com/salarMokhtariL/House-Price-Prediction-Regression-Modeling"
